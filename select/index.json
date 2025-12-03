@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ケセラセラ",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-03T19:22:25.205825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/01_ケセラセラ_fhána.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/02_ケセラセラ_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_ケセラセラ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/04_ケセラセラ_fhána.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ケセラセラ エレジー",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/05_ケセラセラ_エレジー_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ケセラセラ - Que Sera Sera",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_ケセラセラ_-_Que_Sera_Sera_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mrs. GREEN APPLE「ケセラセラ」Official Music Video",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_Mrs._GREEN_APPLE「ケセラセラ」Official_Music_Video_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_ケセラセラ_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/09_ケセラセラ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ケセラセラ - Que Sera Sera",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_ケセラセラ_-_Que_Sera_Sera_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/11_ケセラセラ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ケセラセラ (~The White Lounge Version~ / Live) - Que Sera Sera (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/12_ケセラセラ_(~The_White_Lounge_Version~___Live)_-_Que_Sera_Sera_(~The_White_Lounge_Ver_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ケセラセラ",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/13_ケセラセラ_fhána.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ケセラセラ ~The White Lounge Version~",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/14_ケセラセラ_~The_White_Lounge_Version~_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ケセラセラ (Que Sera Sera)",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/15_ケセラセラ_(Que_Sera_Sera)_fhána.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケセラセラ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ケセラセラ_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
